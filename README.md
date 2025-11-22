@@ -204,23 +204,6 @@ CampusMate/
 
 ---
 
-## 🎨 Screenshots
-
-> **Note:** Add screenshots of your application here
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Task Management
-![Task Management](screenshots/tasks.png)
-
-### Events Page
-![Events](screenshots/events.png)
-
-### AI Assistant
-![AI Assistant](screenshots/ai-assistant.png)
-
----
 
 ## 🔑 Key Highlights
 
@@ -281,31 +264,6 @@ We welcome contributions! Please follow these steps:
 - Add comments for complex logic
 - Test your changes thoroughly
 - Update documentation as needed
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👥 Team
-
-**CampusMate Development Team**
-
-- **Team Member 1** - Full Stack Developer
-- **Team Member 2** - Frontend Developer
-- **Team Member 3** - Backend Developer
-- **Team Member 4** - UI/UX Designer
-
----
-
-## 📞 Contact & Support
-
-- **Project Link**: [https://github.com/yourusername/CampusMate](https://github.com/yourusername/CampusMate)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/CampusMate/issues)
-- **Email**: support@campusmate.com
 
 ---
 
